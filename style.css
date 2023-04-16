@@ -12,8 +12,8 @@ body{
   background-position: center;
   height: 100%;
   /*background-color: rgb(250,250,250);*/
-  color: rgb(211,233,239);
-  /*color: rgb(180,180,180);*/
+  /*color: rgb(211,233,239);*/
+  color: rgb(110,110,110);
   margin: 10px;
   width: auto;
   height: auto;
@@ -44,8 +44,8 @@ a{
 
 .link{
   text-decoration: none;
-  /*color: rgb(70,70,70);*/
-  color: #B3C7CC;
+  color: rgb(110,110,110);
+  /*color: #B3C7CC;*/
   padding-left: 40px;
   font-size: 18px;
 }
